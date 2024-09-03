@@ -4,7 +4,6 @@ Project Overview :
 An eCommerce application that streamlines online shopping operations, including product promotion, sales, and shipping management.
 
 Key Features :
-
 Admin Interface: Manage customers, vendors, products, user accounts, and generate reports.
 User Interface: Register, search products, manage shopping carts, and make purchases.
 
