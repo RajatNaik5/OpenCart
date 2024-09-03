@@ -1,24 +1,130 @@
-2024-08-30 20:52:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 20:52:24 INFO  Utils:112 - [TestNG] Running:
+2024-09-03 12:24:48 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
+2024-09-03 12:24:48 INFO  Utils:112 - [TestNG] Running:
   C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
 
-2024-08-30 20:54:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 20:54:28 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
+2024-09-03 12:48:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\AppData\Local\Temp\testng-eclipse--1668636484\testng-customsuite.xml"
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rajat\AppData\Local\Temp\testng-eclipse--1668636484\testng-customsuite.xml
 
-2024-08-30 21:00:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 21:00:27 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
+2024-09-03 12:48:33 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4fbdc0f0: 34 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@2a551a63: 96 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@39c11e6c: 11 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a80515c: 15 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2d0566ba: 8 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@28c0b664: 4 ms
+2024-09-03 12:48:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c444798: 0 ms
+2024-09-03 13:04:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\AppData\Local\Temp\testng-eclipse-66316134\testng-customsuite.xml"
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rajat\AppData\Local\Temp\testng-eclipse-66316134\testng-customsuite.xml
 
-2024-08-30 21:04:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 21:04:21 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
+2024-09-03 13:04:06 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6d511b5f: 29 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@54ec8cc9: 80 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@781e7326: 24 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3caa4757: 37 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58dea0a5: 10 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@320e400: 5 ms
+2024-09-03 13:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5167268: 0 ms
+2024-09-03 13:05:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\AppData\Local\Temp\testng-eclipse-1242047476\testng-customsuite.xml"
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rajat\AppData\Local\Temp\testng-eclipse-1242047476\testng-customsuite.xml
 
-2024-08-30 21:06:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 21:06:13 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
-
-2024-08-30 21:20:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml"
-2024-08-30 21:20:43 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\rajat\eclipse-workspace\OpenCart\Master.xml
-
+2024-09-03 13:05:26 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6d511b5f: 44 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@54ec8cc9: 110 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@781e7326: 21 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3caa4757: 20 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58dea0a5: 7 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5167268: 8 ms
+2024-09-03 13:05:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1cfd1875: 0 ms

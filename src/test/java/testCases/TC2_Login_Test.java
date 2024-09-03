@@ -24,6 +24,8 @@ public class TC2_Login_Test extends BaseClass
 		logpage.Password(p.getProperty("password"));
 		logpage.login();
 		
+		
+		
 		//Verify MyAccount Text
 		MyAccountPage map=new MyAccountPage(driver);
 		boolean targetpage=map.isMyAccountPageExists();
